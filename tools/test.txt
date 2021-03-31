@@ -1,0 +1,400 @@
+D:/project/python/ViolenceDetection-master/no _violence_train/no34_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi109_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi142_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no378_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi456_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no42_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no482_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi110_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no389_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no48_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no104_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi278_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi162_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no216_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi466_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no350_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi206_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi340_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi419_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no148_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi363_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no237_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no96_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi40_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi113_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no274_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no36_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi15_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi216_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi420_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no458_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi265_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi119_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi246_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi351_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no498_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi194_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi218_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi353_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi175_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no433_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no191_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no61_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no43_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi301_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi342_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no19_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi82_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no70_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi279_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi271_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no413_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no262_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no325_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi103_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no94_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi358_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no365_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no23_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no171_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no434_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi446_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no317_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi151_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi125_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi181_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi182_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi76_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi106_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no267_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi77_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi487_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no266_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no395_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi480_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi97_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi153_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no499_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no100_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi69_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi96_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no357_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi214_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no8_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no446_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi242_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi154_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no179_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi397_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi161_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no283_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no439_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi335_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi276_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi257_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi71_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no117_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi137_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no38_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi98_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no53_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi445_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi21_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi64_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi436_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no33_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no40_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi179_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi107_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi402_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no181_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no124_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi433_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi229_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no114_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi345_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no307_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi390_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi266_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi198_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi403_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no297_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no416_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no437_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no136_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no311_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi455_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi75_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no464_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no154_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi160_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi25_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no150_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi18_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi477_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi306_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no201_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi277_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi132_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no62_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no410_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no370_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no183_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi253_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no441_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no477_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi197_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no355_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi224_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no30_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no462_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no130_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no323_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no112_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no67_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no371_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no300_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no284_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi14_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no402_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no451_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no139_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no340_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi32_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi127_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi478_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no322_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi304_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no258_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi450_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no490_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi444_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no260_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no309_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no141_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi422_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no149_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no235_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no430_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no491_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no251_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi27_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no59_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no155_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no88_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi255_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi264_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no393_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no407_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no334_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi250_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no203_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi83_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no131_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no169_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no352_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi285_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi262_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no119_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi92_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no156_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no444_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no199_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi60_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi178_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no254_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no291_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no57_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi189_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi329_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no319_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no381_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi171_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi430_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi453_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no82_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi212_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi321_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi3_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no192_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi196_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi425_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi332_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no293_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi447_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi354_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no22_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no481_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no16_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi6_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi302_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no217_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no299_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi316_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no37_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi500_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no320_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi139_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi207_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi475_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi428_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no277_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no306_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no128_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi155_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi78_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi140_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi100_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no2_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi398_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no7_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no146_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no480_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no495_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no198_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no170_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no333_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi105_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no147_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi375_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no347_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no408_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi481_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no382_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no77_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi90_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no353_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no358_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi313_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no411_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi240_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi231_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no86_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no472_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no294_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no219_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no98_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no257_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no461_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi292_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi462_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no151_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi294_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no122_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no486_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi486_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi381_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no466_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi227_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no11_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no41_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no13_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi145_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi399_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi233_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no301_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no243_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no471_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no422_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no145_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi443_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no107_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi494_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi176_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no142__xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi359_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no455_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no71_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi289_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no163_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no73_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi319_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi12_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no91_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no28_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi441_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi259_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no101_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no196_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi177_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi66_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no259_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no374_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no463_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi195_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi439_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi472_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no17_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no457_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi28_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi222_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi219_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi159_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no419_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no427_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi43_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no207_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no456_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no15_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi461_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi244_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi122_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi396_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi365_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi59_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no185_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no60_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi389_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no209_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi334_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi123_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi468_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi52_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi435_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi303_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi367_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi356_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no405_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no401_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi362_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no89_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi431_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi412_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi188_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi410_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi404_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi148_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi490_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no133_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no50_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi281_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi326_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no400_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi228_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi117_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi406_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no110_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi416_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no312_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no162_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no200_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi317_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi384_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no337_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi23_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no327_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi146_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi438_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no273_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no27_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no324_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi393_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi300_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no493_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi400_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no394_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi235_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no190_xvid.avi	INF	INF
+D:/project/python/ViolenceDetection-master/violence_train/fi67_xvid.avi	0	INF
+D:/project/python/ViolenceDetection-master/no _violence_train/no25_xvid.avi	INF	INF
